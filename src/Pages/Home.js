@@ -12,7 +12,7 @@ export default function Home () {
             texto = "O número é par"
         }
 
-        alert("O número convertido é: "+texto);
+        alert(texto);
     }
 
     return(
